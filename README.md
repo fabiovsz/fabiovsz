@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently studying Information Systems at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG).
 - 👨‍💻 Web developer at [Udooku](https://udooku.com).
-- 📖 I'm currently studying back-end technologies: ASP.NET and Java Spring Framework.
+- 📖 I'm currently focused on software architecture and Spring Framework studies.
 
 
 
