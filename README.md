@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Fábio Vieira! 👋🏽</h1>
 
 - 🎓 I'm currently studying Information Systems at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG).
-- 👨‍💻 Web developer at [Udooku](https://udooku.com).
+- 👨‍💻 Developer at [Udooku](https://udooku.com).
 - 📖 I'm currently focused on software architecture, Java and Spring Framework.
 
 
